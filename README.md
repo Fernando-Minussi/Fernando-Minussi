@@ -1,0 +1,1 @@
+Olá, me chamo Fernando Minussi e tenho um grande interesse por tecnologia. Na faculdade de Física tive contato com python e bancos de dados, sendo este último que fiz um pequeno projeto como parte de um trabalho, e por isso planejo estudar a respeito da área de dados para eventualmente ingressar nela
